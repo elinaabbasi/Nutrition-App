@@ -3,6 +3,8 @@ import java.awt.*;
 import java.awt.event.*;
 //import java.util.*;
 
+//Use of AI: Used AI to get a better understand of Java Swing classes and operations.
+
 //this class has the information regarding food details and nutrients including calories, fiber, protein (implemented later)
 class FoodInfo {
 	
