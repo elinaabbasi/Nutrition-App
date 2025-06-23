@@ -3,6 +3,9 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 
+//Use of AI: Used AI to get a better understand of Java Swing classes and operations.
+//Used AI to incorporate event handlers like the button clicks using the ActionListener interface.
+
 public class Meal {
   
 	String date;//Date of the meal
