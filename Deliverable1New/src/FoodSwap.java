@@ -3,6 +3,8 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 
+//Use of AI: Used AI to get a better understand of Java Swing classes and operations.
+
 public class FoodSwap {
 	//create a profile for a random user
     private static UserProfile user = new UserProfile("Emily", "Female", "2004-12-12", 120, 66, "Metric");
