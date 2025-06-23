@@ -7,6 +7,9 @@ import org.jfree.data.category.DefaultCategoryDataset;
 import javax.swing.*;
 import java.util.*;
 
+//Use of AI: Used AI to debug code and understand how to generate a bar chart using JFreeChart
+//Used AI to understand classes and operations from JFreeChart to improve our visualization
+
 public class Chart {
 	
 	//create a profile for a random user
